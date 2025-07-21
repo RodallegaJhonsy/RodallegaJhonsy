@@ -17,6 +17,7 @@ Apasionado por la tecnología y el desarrollo de aplicaciones innovadoras para l
 
 ### Secondary Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=FFFFFF&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-bd9117?logo=openjdk&logoColor=FFFFFF&style=for-the-badge)
 ---
 
 ---
